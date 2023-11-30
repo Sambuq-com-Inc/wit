@@ -41,23 +41,23 @@ Node.js, Express.js, MongoDB, Flutter (or any modern frontend framework like Vue
 Candidates will submit the application using Bitbucket. The deadline for submission is Monday, December 4, 2023, at 6 PM. Below are the submission guidelines:
 
 1. Create a user account on Bitbucket.
-2. Clone the repository using the command: `git clone https://phirlikar@bitbucket.org/sambuq-recruitment/wit.git`.
+2. Clone the repository using the command: `git clone https://phirlikar@bitbucket.org/sambuq-recruitment/wit.git`
 3. Create a new branch from the master branch.
 4. The branch name will be in the format - WIT_<LASTNAME>_<FIRSTNAME>_<BRANCH>_<SEMESTER>
-   Example: WIT_KOLHI_VIRAT_CS_6
-   Branch Codes:
-   - Computer Science Engineering = CSE
-   - Information Technology = IT
-   - Electronics and Computer Engineering = ECE
-   - Electronics and Telecommunication = ENTC
-   - Mechanical and Automation Engineering = MECH
-   - Civil Engineering = CIVIL
-   - Other = OTHR
+   Example: WIT_KOLHI_VIRAT_CSE_6
+   - Branch Codes:
+     - Computer Science Engineering - CSE
+     - Information Technology - IT
+     - Electronics and Computer Engineering - ECE
+     - Electronics and Telecommunication - ENTC
+     - Mechanical and Automation Engineering - MECH
+     - Civil Engineering - CIVIL
+     - Other - OTHR
 5. The backend code will be submitted in the `src/back_end` folder.
 6. The frontend code will be submitted in the `src/front_end` folder.
 7. Do not commit any system-generated files in the repo.
 8. Upload your latest resume in the resume folder.
 
-**PLEASE NOTE:** The goal is to help us understand how well you can understand and develop software based on a set of requirements. Code quality and correctness will be given more weightage than the completeness of the assignment.
+**PLEASE NOTE:** The goal is to help us understand how well you can understand and develop software based on a set of requirements. Code quality, correctness and structure of the project will be given more weightage than the completeness of the assignment.
 
 **GOOD LUCK! 🚀**
