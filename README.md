@@ -58,6 +58,11 @@ Candidates will submit the application using Bitbucket. The deadline for submiss
 7. Do not commit any system-generated files in the repo.
 8. Upload your latest resume in the resume folder.
 
-**PLEASE NOTE:** The goal is to help us understand how well you can understand and develop software based on a set of requirements. Code quality, correctness and structure of the project will be given more weightage than the completeness of the assignment.
+**PLEASE NOTE:**
+
+1. The goal is to assess your understanding and development skills based on the given requirements.
+2. Code quality, correctness, database design, and project structure will be given more weight than the completeness of the assignment.
+3. The UI can be minimalistic and should be responsive to a reasonable degree. No extra marks will be allotted for a UI-heavy application.
+
 
 **GOOD LUCK! 🚀**
