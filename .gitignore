@@ -4,8 +4,8 @@
 #     https://www.atlassian.com/git/tutorials/saving-changes/gitignore
 
 # Node artifact files
-node_modules/
-dist/
+src/back_end/node_modules/
+src/back_end/dist/
 
 # Compiled Java class files
 *.class
@@ -47,4 +47,96 @@ Thumbs.db
 *.flv
 *.mov
 *.wmv
+
+src/front_end/.vscode/launch.json
+src/front_end/macos/Podfile.lock
+src/front_end/ios/Podfile
+src/front_end/ios/Flutter/Debug.xcconfig
+src/front_end/pubspec.lock
+src/front_end/ios/Flutter/Debug.xcconfig
+src/front_end/macos/Flutter/Flutter-Debug.xcconfig
+src/front_end/macos/Podfile
+src/front_end/macos/Flutter/Flutter-Release.xcconfig
+src/front_end/pubspec.lock
+src/front_end/ios/Pods
+src/front_end/ios/Flutter/Flutter.podspec
+src/front_end/ios/.symlinks
+src/front_end/ios/Podfile.lock
+src/front_end/ios/Runner.xcworkspace/xcuserdata
+src/front_end/ios/Flutter/Debug.xcconfig
+src/front_end/ios/Flutter/Release.xcconfig
+src/front_end/macos/Flutter/Flutter-Debug.xcconfig
+src/front_end/macos/Flutter/Flutter-Release.xcconfig
+src/front_end/ios/build
+
+# Compiled output
+/dist
+/tmp
+/out-tsc
+# Only exists if Bazel was run
+/bazel-out
+
+# Dependencies
+/node_modules
+
+# Cordova
+/www
+/plugins
+/platforms
+
+# Electron
+/dist-electron
+/dist-packages
+/electron.main.js
+
+# IDEs and editors
+.idea/*
+!.idea/runConfigurations/
+!.idea/codeStyleSettings.xml
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+xcuserdata/
+*.sublime-workspace
+
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Maven
+/target
+/log
+
+# Misc
+/.sass-cache
+/connect.lock
+/coverage
+/libpeerconnection.log
+npm-debug.log
+yarn-error.log
+testem.log
+/typings
+/reports
+/src/translations/template.*
+# /src/environments/.env.*
+
+.DS_*
+*.log
+logs
+**/*.backup.*
+**/*.back.*
+
+node_modules
+bower_components
+
+*.sublime*
+
+psd
+thumb
+sketch
 
