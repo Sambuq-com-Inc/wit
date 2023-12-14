@@ -77,6 +77,7 @@ Candidates will submit the application using Bitbucket. The deadline for submiss
 1. The goal is to assess your understanding and development skills based on the given requirements.
 2. Code quality, correctness, database design, and project structure will be given more weight than the completeness of the assignment.
 3. The UI can be minimalistic and should be responsive to a reasonable degree. No extra marks will be allotted for a UI-heavy application.
+4. Please raise an issue if there is any branch publish issue or any git related issues.
 
 
 **GOOD LUCK! 🚀**
