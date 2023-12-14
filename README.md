@@ -51,8 +51,8 @@ Node.js, Express.js, MongoDB, Flutter (or any modern frontend framework like Vue
 ## Submission
 Candidates will submit the application using Bitbucket. The deadline for submission is Monday, December 4, 2023, at 6 PM. Below are the submission guidelines:
 
-1. Create a user account on Bitbucket. The code repository is hosted [here](https://bitbucket.org/sambuq-recruitment/wit)
-2. Clone the repository using the command: `git clone https://phirlikar@bitbucket.org/sambuq-recruitment/wit.git`
+1. Create a user account on Github. The code repository is hosted [here](https://github.com/Sambuq-com-Inc/wit)
+2. Clone the repository using the command: `git clone https://github.com/Sambuq-com-Inc/wit.git`
 3. Create a new branch from the master branch.
 4. The branch name will be in the format - `WIT_<LASTNAME>_<FIRSTNAME>_<BRANCH_CODE>_<SEMESTER>`
    
