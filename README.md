@@ -71,7 +71,7 @@ Candidates will submit the application using Bitbucket. The deadline for submiss
 6. The frontend code will be submitted in the `src/front_end` folder.
 7. Do not commit any system-generated files in the repo.
 8. Upload your latest resume in the resume folder.
-9. Once the test is complete. Create an issue with title - TEST SUBMISSION: WIT_LASTNAME_FIRSTNAME_BRANCH_CODE_SEMESTER and link your forked repository in the descrption.
+9. Once the test is complete. Come back to this repository and create an issue with title - TEST SUBMISSION: WIT_LASTNAME_FIRSTNAME_BRANCH_CODE_SEMESTER and link your forked repository in the descrption.
 
 **PLEASE NOTE:**
 
