@@ -1,0 +1,26 @@
+.calendar-container {
+    width: 100%;
+    max-width: 800px; /* Set the maximum width for responsiveness */
+    margin: 0 auto;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+  }
+  
+  .calendar-container {
+    width: 100%;
+    max-width: 600px;
+  }
+  
+  /* Media query for smaller screens */
+  @media (max-width: 768px) {
+    .calendar-container {
+      max-width: 400px;
+    }
+  }
+  

@@ -1,0 +1,90 @@
+.mainlogin{
+  width: 80em;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* margin-top: 2em; */
+  height: 100vh;
+  /* background-color: black; */
+}
+
+.logo{
+  width: 8em;
+}
+
+.loginhead{
+  font-size: 2.5em;
+  font-weight: 500;
+  margin-top: 1em;
+  /* margin-bottom: 1em; */
+  color: rgb(0, 0, 0);
+}
+
+.loginform {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+  font-family: 'Poppins', sans-serif;
+  width: 30%;
+  /* height: 60vh; */
+  margin: 5em auto;
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 4px; 
+  background-color: #fff;
+}
+
+.loginform .mb-3 {
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+.loginform label {
+  display: block;
+  font-weight: 400;
+  color: #1a76ff;
+}
+
+.loginform input {
+  width: 100%;
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ccc;
+}
+
+.loginform .form-text {
+  font-size: 14px;
+  color: #777;
+}
+
+.loginform .form-check {
+  margin-bottom: 15px;
+}
+
+.loginform .btn-primary {
+  /* width: 20%; */
+  padding: .7em;
+  font-size: 16px;
+  font-weight: bold;
+  color: #fff;
+  background-color: #1a76ff;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.loginform .btn-primary:hover {
+  background-color: #0c2274;
+}
+
+.forgot{
+  margin-top: 1em;
+  font-size: 0.8em;
+  color: rgb(0, 0, 0);
+}
+
+.toggle-login{
+  margin-top: .5em;
+  cursor: pointer;
+}

@@ -1,0 +1,6 @@
+.calendar-container {
+    width: 100%;
+    max-width: 800px; /* Set the maximum width for responsiveness */
+    margin: 0 auto;
+  }
+  

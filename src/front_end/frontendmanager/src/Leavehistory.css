@@ -1,0 +1,46 @@
+.leave-history-container {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .welcome-heading {
+    color: rgb(0, 0, 0);
+  }
+  
+  .leave-history-table {
+    width: 80%;
+    margin: 0 auto;
+    border-collapse: collapse;
+  }
+  
+  .leave-history-table th,
+  .leave-history-table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .leave-history-table th {
+    background-color: rgb(69, 153, 255);
+    color: rgb(255, 255, 255);
+  }
+  
+  .leave-history-table tbody tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .leave-history-table tbody tr:hover {
+    background-color: lightblue;
+  }
+  
+  .leave-history-table td.approved {
+    background-color: lightgreen;
+  }
+  
+  .leave-history-table td.rejected {
+    background-color: lightcoral;
+  }
+  
+  .leave-history-table td.pending {
+    background-color: lightyellow;
+  }
+  

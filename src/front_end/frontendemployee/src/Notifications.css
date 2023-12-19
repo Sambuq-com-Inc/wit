@@ -1,0 +1,42 @@
+.notifications-panel-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .notifications-heading {
+    position:absolute;
+    top: 1.5em;
+    color: #030303;
+    font-size: 3em;
+    margin-bottom: 10px;
+    font-weight: 400;
+
+  }
+  
+ .notifications-table{
+  /* border-bottom:1px solid #1e1e1e; */
+  border-collapse:collapse;
+  
+ }
+
+  td{
+  border-bottom:1px solid #1e1e1e;
+  padding: 2em 3em;
+ }
+
+ th{
+  border-bottom:3px solid #1e1e1e;
+  padding:1em 3em;
+  font-family: 'Poppins', sans-serif;
+  font-size: 1.5em;
+  font-weight: 600;
+
+ }
